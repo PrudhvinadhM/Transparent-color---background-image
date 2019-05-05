@@ -1,0 +1,11 @@
+html {
+	height: 100%;
+	/*Provide img src url*/
+	background: url(../img/baner-42.jpg) no-repeat center;
+	background-size: cover;
+}
+body {
+	/*Add transparent color Which should appear above image*/
+	background: rgba(72,180,76,0.8);
+	height: 100%;
+}
